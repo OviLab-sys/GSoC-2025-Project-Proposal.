@@ -88,10 +88,9 @@ Design a modular and responsive TUI layout with:
 ## Why Me?
 
 ### Relevant Skills & Experience
-- **Backend Development**: 4+ years in Python (FastAPI, Django) and PHP (Laravel).
+- **Backend Development**: 3+ years in Python (FastAPI, Django) and PHP (Laravel).
 - **DevOps Familiarity**: Experience with Docker, Docker Compose, and container orchestration.
 - **Open-Source Contributions**: Active GitHub profile with prior contributions to developer tools.
-- **UI/UX Passion**: Keen interest in improving CLI tools with intuitive interfaces.
 
 ### Motivation
 I want to make Sugar more accessible and efficient for developers by reducing friction in container management. A well-designed TUI can save time, improve workflows, and encourage broader adoption—goals that align with my passion for developer productivity tools.

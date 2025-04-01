@@ -47,7 +47,7 @@ Design a modular and responsive TUI layout with:
 - **Logs & Statistics Viewer** (real-time updates, scrollable logs).
 - **Detailed Service Information** (IPs, volumes, dependencies).
 
-### 2. Development (Coding Phases 1 & 2)
+### 2. Development
 #### Core Features Implementation:
 - Interactive group/service selection.
 - Action execution (start/stop/restart).

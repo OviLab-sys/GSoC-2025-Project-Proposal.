@@ -78,7 +78,7 @@ Design a modular and responsive TUI layout with:
 
 | Phase               | Duration   | Tasks                                                                 |
 |---------------------|------------|-----------------------------------------------------------------------|
-| Community Bonding   | 4 weeks    | Finalize design, engage with mentors, set up dev environment.         |
+| Preperation         | 4 weeks    | Finalize design, engage with mentors, set up dev environment.         |
 | Coding Phase 1      | 6 weeks    | Implement core TUI structure, service management, and basic navigation. |
 | Coding Phase 2      | 6 weeks    | Add logs viewer, statistics, and detailed service info.               |
 | Final Testing & Docs| 4 weeks    | Bug fixes, performance tuning, documentation, and final submission.   |
